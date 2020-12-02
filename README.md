@@ -18,7 +18,7 @@ wjx@php.net
 ## Organizations
 
 1. [PHP](https://people.php.net/wjx)
-2. SCG (SeasX Core Group)
+2. [SCG (SeasX Core Group)](https://github.com/SeasX)
 
 ## Currently researching
 
