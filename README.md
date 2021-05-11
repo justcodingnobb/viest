@@ -23,7 +23,3 @@ wjx@php.net
 
 1. [PHP](https://people.php.net/wjx)
 2. [SCG (SeasX Core Group)](https://github.com/SeasX)
-
-## Currently researching
-
-1. kubernetes
